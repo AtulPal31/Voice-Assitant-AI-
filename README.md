@@ -1,7 +1,7 @@
 # Voice-Assitant-AI
 
 # An interactive voice-based AI assistant that:
-1.Takes voice input
+1.Takes voice input \n
 2. Uses OpenAI GPT-4o to generate responses
 3. Responds back with voice output
 4. Logs all conversations into a local CSV file
